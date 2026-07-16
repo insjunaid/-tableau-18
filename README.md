@@ -1,3 +1,3 @@
-# -tableau-18
-this shows the titanic datasets and
-graphs are represented for the datasets
+# tableau
+- This shows the titanic dataset
+- Graphs are represented for the dataset
